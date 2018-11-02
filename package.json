@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "practice coding on Nodejs language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinhducvu/nodejs-practice.git"
+  },
+  "author": "Thinh Vu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinhducvu/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/thinhducvu/nodejs-practice#readme",
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nerdcalc": "^1.0.0"
+  }
+}
